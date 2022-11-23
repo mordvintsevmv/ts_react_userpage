@@ -12,12 +12,11 @@ This is a test page for "jsonplaceholder" API!
 
 - React
 - Redux
-- Formik
-- Jest
+- TypeScript
 
 ## ToDo
 
-- [ ] Create more test
+- [ ] Create tests
 - [ ] Refactor App
 - [ ] Create new Pages
 - [ ] Rewrite README
