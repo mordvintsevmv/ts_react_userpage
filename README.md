@@ -1,4 +1,4 @@
-# TypeScript + React UserPage
+# (TypeScript + React) UserPage
 
 This is a test page for "jsonplaceholder" API!
 
