@@ -1,0 +1,137 @@
+.back{
+    position: absolute;
+}
+
+.main_info{
+    margin: 10px;
+}
+
+.main_info span{
+    padding-left: 10px;
+}
+
+.avatar{
+    position: absolute;
+    width:80px;
+    border-radius: 40px;
+    border: 3px solid white;
+    top:190px;
+    left: 15px;
+}
+
+.name{
+    color:white;
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.contacts{
+    padding-top: 15px;
+}
+
+.email img{
+    height: 20px;
+    width: 20px;
+    filter: invert(100%);
+
+}
+
+.email span{
+    padding-left: 5px;
+    margin-right: 15px;
+
+}
+
+
+.phone img{
+    height: 20px;
+    width: 20px;
+    filter: invert(100%);
+
+}
+
+.phone span{
+    padding-left: 5px;
+    margin-right: 15px;
+
+}
+
+.web img{
+    height: 20px;
+    width: 20px;
+    filter: invert(100%);
+
+}
+
+.web span{
+    padding-left: 5px;
+}
+
+.address{
+    position: absolute;
+    right: 20px;
+    top: 220px;
+
+}
+
+.work{
+    position: absolute;
+    right: 20px;
+    top: 250px;
+}
+
+.info_wrapper{
+    position: relative;
+    height: 300px;
+    margin: 10px auto;
+    color: white
+}
+
+.back img{
+    object-fit: cover;
+    width: 100%;
+    height: 300px;
+    border-radius: 5px;
+}
+
+.back:before {
+    border-radius: 5px;
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 4px;
+    left: 0;
+    right: 0;
+    -webkit-box-shadow: 0 -150px 15px -26px rgba(0, 0, 0, 0.66) inset;
+    -moz-box-shadow: 0 -150px 15px -26px rgba(0, 0, 0, 0.66) inset;
+    box-shadow: 0 -150px 15px -26px rgba(0, 0, 0, 0.66) inset;
+}
+
+.main_info{
+    position: absolute;
+    top: 190px;
+    left: 110px;
+    width: 700px;
+}
+
+.extra_block{
+    display: grid;
+    grid-template-columns: 550px 550px;
+    grid-gap: 25px;
+}
+
+.work img{
+    height: 20px;
+    width: 20px;
+    filter: invert(100%);
+    padding-right: 5px;
+
+
+}
+
+.address img{
+    height: 20px;
+    width: 20px;
+    filter: invert(100%);
+    padding-right: 5px;
+}

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TS_React_SocialNetwork.iml" filepath="$PROJECT_DIR$/.idea/TS_React_SocialNetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ts_react_shop/.idea/ts_react_shop.iml" filepath="$PROJECT_DIR$/../ts_react_shop/.idea/ts_react_shop.iml" />
     </modules>
   </component>
 </project>

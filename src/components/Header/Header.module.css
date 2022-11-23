@@ -1,0 +1,17 @@
+.header img{
+    filter: invert(100%);
+    width: 50px;
+    padding-left: 10px;
+}
+
+.header{
+    color: white;
+    position: relative;
+}
+
+.header h1{
+    position: absolute;
+    left: 70px;
+    top: -16px
+}
+
