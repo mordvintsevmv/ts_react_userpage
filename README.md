@@ -4,6 +4,8 @@ This is a test page for "jsonplaceholder" API for testing the features of React,
 
 <a href="https://mordvintsevmv.github.io/ts_react_userpage" target="_blank">Test App</a>
 
+---
+
 ## <a name="content">Content</a>
 
 0. [Technologies](#technologies)
@@ -23,6 +25,7 @@ This is a test page for "jsonplaceholder" API for testing the features of React,
 </div>
 
 [🔝Content🔝](#content)
+
 ---
 
 ## <a name="todo">ToDo</a>
